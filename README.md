@@ -10,8 +10,8 @@
 
 ## Change log
 
-- Snack Tracker v1 
+- Snack Tracker v1 "feat: completed class27" 15-11-2021
 
 ## PR
 
-- [PR1](https://github.com/Moha-AlHanbali/snack-tracker/pull/1)
+- [PR1](https://github.com/Moha-AlHanbali/django-models/pull/1)
